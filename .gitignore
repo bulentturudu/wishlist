@@ -1,0 +1,10 @@
+# Xcode geçici derleme çıktıları
+DerivedData/
+build/
+
+# Xcode kullanıcı ayarları
+xcuserdata/
+*.xcuserstate
+
+# macOS sistem dosyaları
+.DS_Store
