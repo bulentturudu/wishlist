@@ -33,7 +33,7 @@ Made with ❤️ by Bülent.
 
 ## Hakkında
 
-Bu proje, bir Udemy kursundan ilham alınarak hazırlanmış bir deneme uygulamasıdır.  
+Bu proje, bir Udemy kursundan ilham alınarak hazırlanmış bir dilek uygulamasıdır.  
 İleride kapsamlı bir dilek veya görev yönetim uygulamasına dönüşebilir.
 
 Bülent tarafından sevgiyle yapıldı.
